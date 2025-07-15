@@ -20,7 +20,7 @@ while True:
         print("THANK YOU FOR PLAYING THE GAME 💐 ")
         break
     elif ran_num > user_choice:
-        print(" Number Is Small,  Please Enter Greater Number.")
+        print(" Number Is Low,  Please Enter Greater Number.")
     elif ran_num < user_choice:
         print("Number Is High,  Please Enter Smaller Number.")
     
